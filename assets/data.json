@@ -1,0 +1,57 @@
+[
+  {
+    "title": "Avatar",
+    "distributor": "20tx Centyr Fox",
+    "year": "2009",
+    "amount": "2787965087",
+    "img": {
+      "src": "avatar.jpg",
+      "alt": "Avatar"
+    },
+    "ranking": "1"
+  },
+  {
+    "title": "Titanic",
+    "distributor": "20tx Centyr Fox",
+    "year": "1997",
+    "amount": "2187463944",
+    "img": {
+      "src": "titanic.jpg",
+      "alt": "Titanic"
+    },
+    "ranking": "2"
+  },
+  {
+    "title": "Star Wars: The Force Awakens",
+    "distributor": "Walt Disney Studios Motion Pictures",
+    "year": "2015",
+    "amount": "2068223624",
+    "img": {
+      "src": "starwars.jpg",
+      "alt": "Star Wars"
+    },
+    "ranking": "3"
+  },
+  {
+    "title": "Avengers: Infinity Wars",
+    "distributor": "Walt Disney Studios Motion Pictures",
+    "year": "2018",
+    "amount": "2048359754",
+    "img": {
+      "src": "avengers.jpg",
+      "alt": "Avengers"
+    },
+    "ranking": "4"
+  },
+  {
+    "title": "Jurassic World",
+    "distributor": "Universal Pictures",
+    "year": "2015",
+    "amount": "1671713208",
+    "img": {
+      "src": "jurassic.jpg",
+      "alt": "Jurassic World"
+    },
+    "ranking": "4"
+  }
+]
